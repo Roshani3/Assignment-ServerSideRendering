@@ -1,0 +1,69 @@
+{
+    "todos": [
+    
+      {
+        "id": 1,
+        "todo": "Take a class at local community center that interests you",
+        "completed": false,
+        "userId": 22
+      },
+      {
+        "id": 2,
+        "todo": "Research a topic interested in",
+        "completed": false,
+        "userId": 4
+      },
+      {
+        "id": 3,
+        "todo": "Plan a trip to another country",
+        "completed": true,
+        "userId": 37
+      },
+      {
+        "id": 4,
+        "todo": "Improve touch typing",
+        "completed": false,
+        "userId": 45
+      },
+      {
+        "id": 5,
+        "todo": "Learn Express.js",
+        "completed": false,
+        "userId": 49
+      },
+      {
+        "id": 6,
+        "todo": "Learn calligraphy",
+        "completed": false,
+        "userId": 50
+      },
+      {
+        "id": 7,
+        "todo": "Have a photo session with some friends",
+        "completed": false,
+        "userId": 14
+      },
+      {
+        "id": 8,
+        "todo": "Go to the gym",
+        "completed": false,
+        "userId": 15
+      },
+      {
+        "id": 9,
+        "todo": "Make own LEGO creation",
+        "completed": false,
+        "userId": 30
+      },
+      {
+        "id": 10,
+        "todo": "Take cat on a walk",
+        "completed": false,
+        "userId": 15
+      }
+    ],
+    "total": 150,
+    "skip": 0,
+    "limit": 30
+  }
+  
